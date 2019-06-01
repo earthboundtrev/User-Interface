@@ -64,3 +64,33 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.bottom_alignment {
+   
+	
+	/*align: left*/
+
+}
+
+ .navStyle {
+  
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+
+} 
+
+.nav {
+   display: inline-block;
+   padding-right: 20px;
+}
+
+.window {
+	margin: 100px;
+	display: inline;
+}
+
+.copyright {
+
+	text-align: center;
+}
+
