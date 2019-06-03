@@ -75,13 +75,14 @@ h1, h2, h3, h4, h5 {
   
 	display: inline-block;
 	margin: 10px;
-	padding: 10px;
+	padding-left: 50px;
 
 } 
 
 .nav {
    display: inline-block;
    padding-right: 20px;
+   color: gray;
 }
 
 .window {
@@ -94,3 +95,47 @@ h1, h2, h3, h4, h5 {
 	text-align: center;
 }
 
+.biggestHeader {
+		font-family: 'Bangers', cursive;
+		letter-spacing: 1px;
+		margin-bottom: 15px;
+		font-size: 100px;
+}
+
+.innovationFormaterer {
+
+	padding-top: 100px;
+	padding-left: 120px;
+
+}
+
+.onFormaterer {
+	padding-top: 10px;
+	padding-left: 260px;
+	
+}
+
+.demandFormaterer
+{
+	padding-top: 5px;
+	padding-left: 190px;
+	
+}
+
+.logo {
+
+	padding-left: 250px;
+}
+
+.secondLogo {
+
+	padding-left: 800px;
+	padding-top: -100px; 
+}
+.buttonFeatures {
+
+	background-color: white;
+	text-align: center;
+	display: inline-block;
+
+}
